@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks4.txt
+https://raw.githubusercontent.com/MuRongPIG/Proxy-Master/blob/main/socks4.txt
